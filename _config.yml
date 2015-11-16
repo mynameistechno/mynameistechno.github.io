@@ -11,5 +11,6 @@ github_username:  mynameistechno
 markdown: kramdown
 
 links:
-  - https://github.com/mynameistechno/finderjs
-  - https://www.linkedin.com/in/markmatyas
+  Resume: "https://mynameistechno.github.io/resume"
+  "FinderJS: Browse hierarchical data in columns, similar to OS X's Finder": "https://github.com/mynameistechno/finderjs"
+  LinkedIn: "https://www.linkedin.com/in/markmatyas"
