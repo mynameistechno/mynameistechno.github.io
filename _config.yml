@@ -1,9 +1,9 @@
 # Site settings
 title: Mark Matyas
-email: mynameistechno@gmail.com
+email: mark@matyas.dev
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://mynameistechno.github.io/" # the base hostname & protocol for your site
+url: "https://markmatyas.dev/" # the base hostname & protocol for your site
 twitter_username: brazill
 github_username:  mynameistechno
 
@@ -11,6 +11,7 @@ github_username:  mynameistechno
 markdown: kramdown
 
 links:
-  Resume: "https://mynameistechno.github.io/resume"
-  "FinderJS: Browse hierarchical data in columns, similar to OS X's Finder": "https://github.com/mynameistechno/finderjs"
+  Resume: "https://markmatyas.dev/resume"
+  "FinderJS: Browse hierarchical data in columns, similar to OS X's Finder": "https://markmatyas.dev/finderjs/"
+  ClearlyDefined: "https://clearlydefined.io/about"
   LinkedIn: "https://www.linkedin.com/in/markmatyas"
