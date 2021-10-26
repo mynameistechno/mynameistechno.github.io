@@ -11,7 +11,8 @@ github_username:  mynameistechno
 markdown: kramdown
 
 links:
-  Resume: "https://markmatyas.dev/resume"
+  "Qualcomm Innovation Center": "https://github.com/quic"
+  "TODO Group": "https://todogroup.org/"
   "FinderJS: Browse hierarchical data in columns, similar to OS X's Finder": "https://markmatyas.dev/finderjs/"
   ClearlyDefined: "https://clearlydefined.io/about"
-  LinkedIn: "https://www.linkedin.com/in/markmatyas"
+  Resume: "https://markmatyas.dev/resume"
